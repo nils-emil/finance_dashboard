@@ -1,7 +1,7 @@
 [![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)](https://angular.io/) [![Electron Logo](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)](https://electronjs.org/)
 
 ![Maintained][maintained-badge]
-![Make a pull request][prs-badge]]
+![Make a pull request][prs-badge]
 [![License][license-badge]](LICENSE.md)
 
 # Introduction
